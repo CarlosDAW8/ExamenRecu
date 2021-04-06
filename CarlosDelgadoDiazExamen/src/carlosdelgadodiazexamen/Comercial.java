@@ -17,5 +17,11 @@ public class Comercial {
         this.nombre = nombre;
         this.sueldo = sueldo;
     }
+
+    @Override
+    public String toString() {
+        return "Comercial{" + "nombre=" + nombre + ", sueldo=" + sueldo + '}';
+    }
+    
     
 }
