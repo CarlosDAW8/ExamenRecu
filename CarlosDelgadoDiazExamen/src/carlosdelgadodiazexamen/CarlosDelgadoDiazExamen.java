@@ -18,7 +18,7 @@ public class CarlosDelgadoDiazExamen {
         // TODO code application logic here
     }
     
-    Comercial comerciales = new Comercial("carlos",2000);
+    Comercial comerciales = new Comercial("carlos",2000,"21-5-2010");
     
     
 }
